@@ -7,3 +7,5 @@
 -> 1 aws_autoscaling_policy for each metric alarm
 
 ->  1 vpc and settings (subnets, route tables)
+
+-> A SNS topic for notifications pertaining to the ASG actions
